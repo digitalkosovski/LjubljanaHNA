@@ -21,5 +21,7 @@ Download the file [data_spaniards](https://github.com/digitalkosovski/LjubljanaH
 
 Download the following [files](https://inz365-my.sharepoint.com/:f:/g/personal/agustin_cosovschi_inz_si/IgA5HUMWp-n5SKcu7HPiOcHjAernG62y3cBIkpmm-QJrcYo?e=IKAGFm).
 
+Follow the [Guidelines](https://github.com/digitalkosovski/LjubljanaHNA/blob/main/guidelines_for_module_3.md).
+
 
 
