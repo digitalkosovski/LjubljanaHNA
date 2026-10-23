@@ -25,7 +25,7 @@ Your dataset should have exactly **one row of column names** at the very top (Ro
 Keep column headers short, descriptive, and free of special characters.
 
 ### 4. Never Use Formatting to Convey Meaning
-In a raw CSV, all visual styling—such as cell background colors, bold text, borders, or highlights—is completely stripped out.
+In a raw CSV, all visual styling (such as cell background colors, bold text, borders, or highlights) is completely stripped out.
 
 ### 5. Handle Missing Data Consistently
 Blank cells can be ambiguous. It is often unclear if a blank cell means a value is zero, unknown, or if the person entering data simply skipped it.
