@@ -29,6 +29,6 @@ In a raw CSV, all visual styling (such as cell background colors, bold text, bor
 
 ### 5. Handle Missing Data Consistently
 Blank cells can be ambiguous. It is often unclear if a blank cell means a value is zero, unknown, or if the person entering data simply skipped it.
-Choose *one standard* for missing values and stick to it throughout the entire project: for example, leave the cell completely empty or even better, use something like 'NULL' or 'NA'.
+Choose **one standard** for missing values and stick to it throughout the entire project: for example, leave the cell completely empty or even better, use something like 'NULL' or 'NA'.
 
  
